@@ -1,5 +1,4 @@
 # password_manager
-====================
 Password Manager with Auto-Generated Passwords
 ====================
 
